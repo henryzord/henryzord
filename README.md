@@ -43,6 +43,7 @@ I like to...
 
 * [Twitter](https://twitter.com/henryzord)
 * [Google Scholar](https://scholar.google.com.br/citations?user=0gBC24wAAAAJ&hl=en-US)
+* [dblp](https://dblp.org/pid/177/2452.html)
 * [Lattes CV](http://lattes.cnpq.br/6346810782525797) (in Brazilian Portuguese)
 
 ## How to reach me 📫
