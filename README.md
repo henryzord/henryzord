@@ -41,7 +41,6 @@ I like to...
 
 ## Social networks 🌐
 
-* [Twitter](https://twitter.com/henryzord)
 * [Google Scholar](https://scholar.google.com.br/citations?user=0gBC24wAAAAJ&hl=en-US)
 * [dblp](https://dblp.org/pid/177/2452.html)
 * [Lattes CV](http://lattes.cnpq.br/6346810782525797) (in Brazilian Portuguese)
@@ -52,4 +51,4 @@ You can e-mail me at my professional e-mail, [henry.cagnini@edu.pucrs.br](henry.
 
 ## Fun fact ⚡
 
-Did you know we already solved one of the seven [Millenium Problems](https://qr.ae/pNCQpm)? 
+Did you know the humanity already solved one of the seven [Millenium Problems](https://qr.ae/pNCQpm)? 
