@@ -27,8 +27,14 @@ I also worked briefly with these other languages:
 4. Haskell*
 5. Android
 6. PHP
+7. Javascript
 
 \*I really enjoyed this one
+
+I know something of
+
+1. HTML
+2. CSS
 
 ## What are your hobbies? 🎨
 
