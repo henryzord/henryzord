@@ -1,12 +1,16 @@
 # Hi! 👋
 
-My name is Henry Cagnini. I am a Brazilian guy currently doing a PhD at Pontifícia Universidade Católica do Rio Grande do Sul ([PUCRS](https://www.pucrs.br/technology/graduate-program-in-computer-science/)). I'm due to complete my PhD in 2021.
+My name is Henry Cagnini. I'm a PhD in Computer Science by Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS). While I also got my Computer Science Master's from PUCRS, I'm a bachelor in Computer Science by Universidade Federal de Santa Maria - UFSM.
+
+I was born and raised in Santa Maria, Rio Grande do Sul, Brazil. 
 
 ## What do I do? 🤓
 
-My research interests are evolutionary algorithms, machine learning, and technology in teaching. 
+I'm currently a substitute teacher at Colégio Técnico Industrial de Santa Maria (CTISM), at UFSM. I teach frontend and backend development.
 
-Besides researching, I also like to teach. My teaching interests are Machine Learning, Python Programming, and Data Visualization.
+### Research interests 
+
+My research interests are evolutionary algorithms, machine learning, and teaching computer science to broad audiences. 
 
 ## Programming competences 💻
 
@@ -58,3 +62,7 @@ You can e-mail me at my professional e-mail, [henry.cagnini@edu.pucrs.br](henry.
 ## Fun fact ⚡
 
 Did you know the humanity already solved one of the seven [Millenium Problems](https://qr.ae/pNCQpm)? 
+
+---
+
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=henryzord&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
