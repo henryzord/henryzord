@@ -13,5 +13,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          base: header
           plugin_languages: yes
-          commits_authoring: Henry Cagnini, henryzord, henryzord@users.noreply.github.com
+          commits_authoring: Henry Cagnini, henryzord, henryzord@users.noreply.github.com, CTISM-Prof-Henry
+          config_order: base.header, plugin_languages
+
