@@ -78,4 +78,6 @@ Did you know the humanity already solved one of the seven [Millenium Problems](h
 
 --- 
 
-![Metrics](/github-metrics.svg)
+<!-- ![Metrics](/github-metrics.svg) -->
+
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
