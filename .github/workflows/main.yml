@@ -12,8 +12,9 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header
+          base: ""
           plugin_languages: yes
           plugin_habits: yes
           plugin_achievements: yes
