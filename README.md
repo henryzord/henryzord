@@ -1,6 +1,6 @@
 # Hi! 👋
 
-My name is Henry Cagnini. I'm a PhD in Computer Science by Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS). While I also got my Computer Science Master's from PUCRS, I'm a bachelor in Computer Science by Universidade Federal de Santa Maria - UFSM.
+My name is Henry Cagnini. I have a PhD in Computer Science by Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS). While I also got my Computer Science Master's degree from PUCRS, I graduated in Computer Science by Universidade Federal de Santa Maria - UFSM.
 
 I was born and raised in Santa Maria, Rio Grande do Sul, Brazil. 
 
@@ -14,31 +14,18 @@ My research interests are evolutionary algorithms, machine learning, and teachin
 
 ## Programming competences 💻
 
-You can check out how well I'm doing on each programming language on my [sourcerer](https://sourcerer.io/henryzord) page.
+Below there is a summary of my Github activity. You can also check my [sourcerer](https://sourcerer.io/henryzord) profile (which is a bit outdated because the site was discontinued, but still).
 
-However, I would say my list of programming languges, ordered by the ones I'm most competent to the ones I'm least competent, are:
+However, I would say my competences\* are: 
 
-1. Python
-2. Java
-3. C
-4. C++
+|              Status |              Programming languages | Marking languages |                                                   Technologies and topics |
+|:-------------------:|:-----------------------------------|:------------------|:--------------------------------------------------------------------------|
+|      Very competent |                    Python, Java, C |   LaTeX, Markdown | Evolutionary Algorithms, Machine Learning, Statistics, Data visualization |
+|           Competent |                                C++ |              HTML |                                                                           |
+|            Familiar |                Android, Javascript |               CSS |                                              Frontend, Backend, Databases |
+| Briefly worked with | OpenCL, CUDA, Prolog, Haskell, PHP |                   |                                                             Deep Learning |
 
-I also worked briefly with these other languages:
-
-1. OpenCL
-2. CUDA
-3. Prolog
-4. Haskell*
-5. Android
-6. PHP
-7. Javascript
-
-\*I really enjoyed this one
-
-I know something of
-
-1. HTML
-2. CSS
+\* Non-extensive list. Just the ones from the top of my head 
 
 ## What are your hobbies? 🎨
 
@@ -51,9 +38,7 @@ I like to...
 
 ## Social networks 🌐
 
-* [Google Scholar](https://scholar.google.com.br/citations?user=0gBC24wAAAAJ&hl=en-US)
-* [dblp](https://dblp.org/pid/177/2452.html)
-* [Lattes CV](http://lattes.cnpq.br/6346810782525797) (in Brazilian Portuguese)
+You can check my list of publications at [Google Scholar](https://scholar.google.com.br/citations?user=0gBC24wAAAAJ&hl=en-US) and [dblp](https://dblp.org/pid/177/2452.html). I have a CV at [Lattes](http://lattes.cnpq.br/6346810782525797) (in Brazilian Portuguese).
 
 ## How to reach me 📫
 
