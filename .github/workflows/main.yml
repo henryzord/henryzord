@@ -14,12 +14,12 @@ jobs:
         with:
           config_timezone: America/Sao_Paulo
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header
+          base: ""
           plugin_languages: yes
           plugin_habits: yes
           plugin_achievements: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           commits_authoring: Henry Cagnini, henryzord, henryzord@users.noreply.github.com, CTISM-Prof-Henry
-          config_order: base.header, habits, languages, achievements
+          config_order: habits, languages, achievements
 
