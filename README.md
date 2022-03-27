@@ -42,7 +42,7 @@ You can check my list of publications at [Google Scholar](https://scholar.google
 
 ## How to reach me 📫
 
-You can e-mail me at my professional e-mail, [henry.cagnini@edu.pucrs.br](henry.cagnini@edu.pucrs.br)
+You can e-mail me at my professional e-mail, [henry.cagnini@edu.pucrs.br](henry.cagnini@ufsm.br)
 
 ## Fun fact ⚡
 
