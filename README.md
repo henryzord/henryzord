@@ -33,9 +33,6 @@ You can e-mail me at my professional e-mail, [henry.cagnini@ufsm.br](henry.cagni
 
 Did you know the humanity already solved one of the seven [Millenium Problems](https://qr.ae/pNCQpm)? 
 
-<!-- 
-<br />
-
 ---
 
 ## Programming competences 💻
@@ -53,15 +50,13 @@ However, I would say my competences\* are:
 
 \* Non-extensive list. Just the ones from the top of my head 
 
--->
-
 <!-- simpler interface --> 
 
 <!-- <img align="left" alt="henryzord's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=henryzord&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> -->
 
 <br />
 
---- 
+## Metrics
 
 ![Metrics](/github-metrics.svg)
 
