@@ -12,21 +12,6 @@ I'm currently a substitute teacher at Colégio Técnico Industrial de Santa Mari
 
 My research interests are evolutionary algorithms, machine learning, and teaching computer science to broad audiences. 
 
-## Programming competences 💻
-
-Below there is a summary of my Github activity. You can also check my [sourcerer](https://sourcerer.io/henryzord) profile (which is a bit outdated because the site was discontinued, but still).
-
-However, I would say my competences\* are: 
-
-|              Status |              Programming languages | Marking languages |                                                   Technologies and topics |
-|:-------------------:|:-----------------------------------|:------------------|:--------------------------------------------------------------------------|
-|      Very competent |                    Python, Java, C |   LaTeX, Markdown | Evolutionary Algorithms, Machine Learning, Statistics, Data visualization |
-|           Competent |                                C++ |              HTML |                                                                           |
-|            Familiar |                Android, Javascript |               CSS |                                              Frontend, Backend, Databases |
-| Briefly worked with | OpenCL, CUDA, Prolog, Haskell, PHP |                   |                                                             Deep Learning |
-
-\* Non-extensive list. Just the ones from the top of my head 
-
 ## What are your hobbies? 🎨
 
 I like to...
@@ -42,7 +27,7 @@ You can check my list of publications at [Google Scholar](https://scholar.google
 
 ## How to reach me 📫
 
-You can e-mail me at my professional e-mail, [henry.cagnini@edu.pucrs.br](henry.cagnini@ufsm.br)
+You can e-mail me at my professional e-mail, [henry.cagnini@ufsm.br](henry.cagnini@ufsm.br)
 
 ## Fun fact ⚡
 
@@ -52,6 +37,21 @@ Did you know the humanity already solved one of the seven [Millenium Problems](h
 <br />
 
 ---
+
+## Programming competences 💻
+
+Below there is a summary of my Github activity. You can also check my [sourcerer](https://sourcerer.io/henryzord) profile (which is a bit outdated because the site was discontinued, but still).
+
+However, I would say my competences\* are: 
+
+|              Status |              Programming languages | Marking languages |                                                   Technologies and topics |
+|:-------------------:|:-----------------------------------|:------------------|:--------------------------------------------------------------------------|
+|      Very competent |                    Python, Java, C |   LaTeX, Markdown | Evolutionary Algorithms, Machine Learning, Statistics, Data visualization |
+|           Competent |                                C++ |              HTML |                                                                           |
+|            Familiar |                Android, Javascript |               CSS |                                              Frontend, Backend, Databases |
+| Briefly worked with | OpenCL, CUDA, Prolog, Haskell, PHP |                   |                                                             Deep Learning |
+
+\* Non-extensive list. Just the ones from the top of my head 
 
 -->
 
