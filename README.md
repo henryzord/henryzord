@@ -1,6 +1,6 @@
 # Hi! 👋
 
-My name is Henry Cagnini. I have a PhD in Computer Science by Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS). While I also got my Computer Science Master's degree from PUCRS, I graduated in Computer Science by Universidade Federal de Santa Maria - UFSM.
+My name is Henry Cagnini. I have a PhD in Computer Science by Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS). While I also got my Computer Science Master's degree from PUCRS, I graduated in Computer Science by Universidade Federal de Santa Maria - UFSM. 
 
 I was born and raised in Santa Maria, Rio Grande do Sul, Brazil. 
 
