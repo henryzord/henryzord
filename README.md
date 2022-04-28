@@ -11,7 +11,7 @@ I'm currently a substitute teacher at Colégio Técnico Industrial de Santa Mari
 ### Research interests 
 
 My research interests are evolutionary algorithms, machine learning, and teaching computer science to broad audiences. 
-
+ 
 ## What are your hobbies? 🎨
 
 I like to...
