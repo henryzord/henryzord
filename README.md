@@ -38,10 +38,10 @@ My competences sorted by the most competend to the not-so-competent are\*:
 
 |        Status |              Programming languages | Marking languages         |                                                   Technologies and topics |
 |--------------:|:-----------------------------------|:--------------------------|:--------------------------------------------------------------------------|
-|      ⭐⭐⭐⭐⭐ |                    Python, Java, C |   LaTeX, Markdown         | Evolutionary Algorithms, Machine Learning, Statistics, Data visualization |
-|        ⭐⭐⭐⭐|                                C++ | HTML, RestructuredText     |                                                                           |
-|         ⭐⭐⭐ |      Assembly, Android, Javascript |                  CSS      |                                              Frontend, Backend, Databases |
-|          ⭐⭐ | OpenCL, CUDA, Prolog, Haskell, PHP |                            |                                                             Deep Learning |
+|           5️⭐ |                    Python, Java, C |   LaTeX, Markdown         | Evolutionary Algorithms, Machine Learning, Statistics, Data visualization |
+|           4️⭐ |                                C++ | HTML, RestructuredText    |                                                                           |
+|           3️⭐ |      Assembly, Android, Javascript |                  CSS      |                                              Frontend, Backend, Databases |
+|           2️⭐ | OpenCL, CUDA, Prolog, Haskell, PHP |                           |                                                             Deep Learning |
 |            ⭐ | You're not here for my one-star competences, are you?          |                                                                           |
 
 \* Non-extensive list. Just the ones from the top of my head 
