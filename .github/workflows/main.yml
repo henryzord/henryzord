@@ -9,17 +9,16 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          config_timezone: America/Sao_Paulo
           token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: America/Sao_Paulo
           base: ""
+          filename: github-metrics.svg
           plugin_languages: yes
-          plugin_habits: no
           plugin_achievements: yes
-          plugin_habits_facts: no
-          plugin_habits_charts: no
-          commits_authoring: Henry Cagnini, henryzord, henryzord@users.noreply.github.com, CTISM-Prof-Henry
-          config_order: habits, languages, achievements
-
+          commits_authoring: Henry Cagnini, henryzord, henryzord@users.noreply.github.com, CTISM-Prof-Henry, COPLIN-UFSM
+          config_order: languages, achievements
